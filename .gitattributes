@@ -1,1 +1,1 @@
-proprietary/product/priv-app/MotCamera4/MotCamera4.apk filter=lfs diff=lfs merge=lfs -text
+proprietary/system_ext/priv-app/MotCamera4/MotCamera4.apk filter=lfs diff=lfs merge=lfs -text
